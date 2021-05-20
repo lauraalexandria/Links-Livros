@@ -25,6 +25,7 @@
 - [Curso de Machine Learning para Cientista de Dados](http://cursos.leg.ufpr.br/ML4all)
 - [Supervised Machine Learning Case Studies in R](https://supervised-ml-course.netlify.app/)
 - [Machine Learning with R](https://www.mit.edu/~amidi/teaching/modeling/study-guide/machine-learning-with-r/)
+- [Practical Machine Learning in R](https://drive.google.com/file/d/1Nm2pEObo_oeUmw-rmlawXbeOTWzjeHcn/view)
 
 ### Deep Learning:
 - [Deep Learning with R](https://livebook.manning.com/book/deep-learning-with-r/chapter-1/)
