@@ -67,3 +67,4 @@
 - [What They Forgot to Teach You About R](https://rstats.wtf/)
 - [Página do Afshine Amidi](https://www.mit.edu/~amidi/)
 - [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
+- [JavaScript for R](https://book.javascript-for-r.com/)
