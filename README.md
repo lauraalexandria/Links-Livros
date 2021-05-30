@@ -26,9 +26,13 @@
 - [Supervised Machine Learning Case Studies in R](https://supervised-ml-course.netlify.app/)
 - [Machine Learning with R](https://www.mit.edu/~amidi/teaching/modeling/study-guide/machine-learning-with-r/)
 - [Practical Machine Learning in R](https://drive.google.com/file/d/1Nm2pEObo_oeUmw-rmlawXbeOTWzjeHcn/view)
+- [End-to-End Machine Learning Library](https://e2eml.school/blog.html)
 
 ### Deep Learning:
+- [Introduction to Deep Learning - Curso MIT](http://introtodeeplearning.com/)
 - [Deep Learning with R](https://livebook.manning.com/book/deep-learning-with-r/chapter-1/)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- [Colah's Blog](http://colah.github.io/)
 
 ### Estatística Multivariada
 - [Análise Fatorial](https://repositorio.enap.gov.br/bitstream/1/4790/1/Livro%20An%C3%A1lise%20Fatorial.pdf)
