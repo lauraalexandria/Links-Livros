@@ -49,6 +49,7 @@
 ### Visualização de Dados:
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 - [Data Visualization - A practical introduction](https://socviz.co/)
+- [Dashboards are dead](https://www.thoughtspot.com/sites/default/files/pdf/ThoughtSpot-Dashboards-are-Dead.pdf)
 
 ### Análises Textuais:
 - [An Introduction to Text Processing and Analysis with R](https://m-clark.github.io/text-analysis-with-R/)
