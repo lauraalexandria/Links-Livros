@@ -43,6 +43,9 @@
 - [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 - [Tidyverts](https://tidyverts.org/)
 
+### Análise de Sobrevivência
+- [Survival Analysis in R](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html)
+
 ### Processos Estocásticos
 - [Conceitos Básicos de Processos Estocásticos](http://www.est.ufmg.br/portal/arquivos/rts/Ap2011.pdf)
 - [Uma Introdução aos Processos Estocásticos](http://www.est.ufmg.br/portal/arquivos/rts/rte0502.pdf)
