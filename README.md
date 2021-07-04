@@ -28,6 +28,7 @@
 - [Machine Learning with R](https://www.mit.edu/~amidi/teaching/modeling/study-guide/machine-learning-with-r/)
 - [Practical Machine Learning in R](https://drive.google.com/file/d/1Nm2pEObo_oeUmw-rmlawXbeOTWzjeHcn/view)
 - [End-to-End Machine Learning Library](https://e2eml.school/blog.html)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ### Deep Learning:
 - [Introduction to Deep Learning - Curso MIT](http://introtodeeplearning.com/)
