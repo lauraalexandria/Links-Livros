@@ -6,7 +6,7 @@
 
 ### Análise de Regressão:
 - [Introdução aos Modelos de Regressão Linear](https://repositorio.enap.gov.br/bitstream/1/4788/1/Livro_Regress%c3%a3o%20Linear.pdf)
-- [Some useful equations for nonlinear regression in R](https://pt.slideshare.net/KhorSoonHin/rmsle-cost-function)
+- [Some useful equations for nonlinear regression in R](https://www.statforbiology.com/nonlinearregression/usefulequations)
 
 ### Modelos Lineares Generalizados:
 - [Introdução aos Modelos Probabilísticos Discretos](http://www.est.ufmg.br/portal/arquivos/rts/RTE_01_2016.pdf)
