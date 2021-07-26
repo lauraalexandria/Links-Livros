@@ -39,6 +39,7 @@
 ### Estatística Multivariada
 - [Análise Fatorial](https://repositorio.enap.gov.br/bitstream/1/4790/1/Livro%20An%C3%A1lise%20Fatorial.pdf)
 - [Factor Analysis with the psych package](https://m-clark.github.io/posts/2020-04-10-psych-explained/)
+- [Cluster Analysi: Basic Concepts and Algorithms](https://www-users.cse.umn.edu/~kumar001/dmbook/ch8.pdf)
 
 ### Séries Temporais:
 - [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
