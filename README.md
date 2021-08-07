@@ -1,5 +1,6 @@
 ### Análise de Dados (Geral):
 - [Guia Brasileiro de Análise de Dados](https://repositorio.enap.gov.br/bitstream/1/6039/1/Guia%20BR%20de%20Ana%cc%81lise%20de%20Dados.pdf)
+- [An Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ISLRv2_website.pdf)
 
 ### Inferência:
 - [Statistical Inference via Data Science](https://moderndive.com/)
