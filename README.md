@@ -20,6 +20,7 @@
 
 ### Modelo de Equações Estruturais:
 - [Modelos de Equações Estruturais - Uma Introdução Aplicada](https://repositorio.enap.gov.br/bitstream/1/3334/1/Livro_Modelo%20de%20equa%c3%a7%c3%b5es%20estruturais.pdf)
+- [Modelagem com Equações Estruturais: Princípios Básicos e Aplicações](https://repositorio.ufba.br/ri/bitstream/ri/17684/1/ebook_SEM_2012.pdf)
 
 ### Machine Learning:
 - [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
