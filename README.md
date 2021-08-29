@@ -56,6 +56,9 @@
 - [Conceitos Básicos de Processos Estocásticos](http://www.est.ufmg.br/portal/arquivos/rts/Ap2011.pdf)
 - [Uma Introdução aos Processos Estocásticos](http://www.est.ufmg.br/portal/arquivos/rts/rte0502.pdf)
 
+### Inferência Bayesiana
+- [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)
+
 ### Visualização de Dados:
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 - [Data Visualization - A practical introduction](https://socviz.co/)
