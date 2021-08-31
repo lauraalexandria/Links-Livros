@@ -9,6 +9,7 @@
 ### Análise de Regressão:
 - [Introdução aos Modelos de Regressão Linear](https://repositorio.enap.gov.br/bitstream/1/4788/1/Livro_Regress%c3%a3o%20Linear.pdf)
 - [Some useful equations for nonlinear regression in R](https://www.statforbiology.com/nonlinearregression/usefulequations)
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
 
 ### Modelos Lineares Generalizados:
 - [Introdução aos Modelos Probabilísticos Discretos](http://www.est.ufmg.br/portal/arquivos/rts/RTE_01_2016.pdf)
@@ -86,3 +87,4 @@
 - [Página do Afshine Amidi](https://www.mit.edu/~amidi/)
 - [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
 - [JavaScript for R](https://book.javascript-for-r.com/)
+- [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
