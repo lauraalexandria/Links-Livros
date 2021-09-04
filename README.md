@@ -2,9 +2,12 @@
 - [Guia Brasileiro de Análise de Dados](https://repositorio.enap.gov.br/bitstream/1/6039/1/Guia%20BR%20de%20Ana%cc%81lise%20de%20Dados.pdf)
 - [An Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ISLRv2_website.pdf)
 - [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print12_toc.pdf)
+- [Telling Stories with Data](https://www.tellingstorieswithdata.com/index.html)
+- [Introduction to Statistical Learning in R](https://fcorowe.github.io/sl/)
 
 ### Inferência:
 - [Statistical Inference via Data Science](https://moderndive.com/)
+- [The Book of Statistical Proofs](https://statproofbook.github.io/)
 
 ### Análise de Regressão:
 - [Introdução aos Modelos de Regressão Linear](https://repositorio.enap.gov.br/bitstream/1/4788/1/Livro_Regress%c3%a3o%20Linear.pdf)
@@ -15,6 +18,7 @@
 - [Introdução aos Modelos Probabilísticos Discretos](http://www.est.ufmg.br/portal/arquivos/rts/RTE_01_2016.pdf)
 - [Modelos Lineares Generalizados - da teoria à prática](https://www.researchgate.net/profile/Antonia-Turkman/publication/267948318_Modelos_Lineares_Generalizados_-da_teoria_a_pratica/links/5f2d09cb92851cd302e50cf2/Modelos-Lineares-Generalizados-da-teoria-a-pratica.pdf)
 - [Modelos de Regressão com Apoio Computacional](https://www.ime.usp.br/~giapaula/texto_2013.pdf)
+- [Beyond Multiple Linear Regression - Applied GLM and Multilevels Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/)
 
 ### Modelos Mistos
 - [Mixed Models in R](https://m-clark.github.io/mixed-models-with-R/)
@@ -39,6 +43,7 @@
 - [Deep Learning with R](https://livebook.manning.com/book/deep-learning-with-r/chapter-1/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [Colah's Blog](http://colah.github.io/)
+- [The Modern Mathematics of Deep Learning](https://arxiv.org/pdf/2105.04026.pdf)
 
 ### Estatística Multivariada
 - [Análise Fatorial](https://repositorio.enap.gov.br/bitstream/1/4790/1/Livro%20An%C3%A1lise%20Fatorial.pdf)
@@ -88,3 +93,6 @@
 - [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
 - [JavaScript for R](https://book.javascript-for-r.com/)
 - [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
+
+### Outros assuntos:
+- [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
