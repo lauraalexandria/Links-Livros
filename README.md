@@ -37,6 +37,7 @@
 - [Practical Machine Learning in R](https://drive.google.com/file/d/1Nm2pEObo_oeUmw-rmlawXbeOTWzjeHcn/view)
 - [End-to-End Machine Learning Library](https://e2eml.school/blog.html)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+- [Automated Machine Learning](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)
 
 ### Deep Learning:
 - [Introduction to Deep Learning - Curso MIT](http://introtodeeplearning.com/)
@@ -69,6 +70,8 @@
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 - [Data Visualization - A practical introduction](https://socviz.co/)
 - [Dashboards are dead](https://www.thoughtspot.com/sites/default/files/pdf/ThoughtSpot-Dashboards-are-Dead.pdf)
+- [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html)
+- [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
 
 ### Análises Textuais:
 - [An Introduction to Text Processing and Analysis with R](https://m-clark.github.io/text-analysis-with-R/)
@@ -95,4 +98,6 @@
 - [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
 
 ### Outros assuntos:
-- [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
+- [Introduction to Econometrics with R](https://www.econometrics-with-r.org/))
+- [Handbook of Regression Modeling in People Analytics](https://peopleanalytics-regression-book.org/index.html)
+- [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/introduction.html)
