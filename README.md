@@ -101,3 +101,4 @@
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/))
 - [Handbook of Regression Modeling in People Analytics](https://peopleanalytics-regression-book.org/index.html)
 - [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/introduction.html)
+- [Doing Meta-Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
