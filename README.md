@@ -4,6 +4,7 @@
 - [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print12_toc.pdf)
 - [Telling Stories with Data](https://www.tellingstorieswithdata.com/index.html)
 - [Introduction to Statistical Learning in R](https://fcorowe.github.io/sl/)
+- [Statistics Done Wrong - The woefully complete guide](https://www.statisticsdonewrong.com/index.html)
 
 ### Inferência:
 - [Statistical Inference via Data Science](https://moderndive.com/)
