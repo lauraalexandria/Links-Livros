@@ -98,6 +98,7 @@
 - [JavaScript for R](https://book.javascript-for-r.com/)
 - [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
 - [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://statisticswithjulia.org/)
+- [Hadoop Illuminated](http://www.hadoopilluminated.com/)
 
 ### Outros assuntos:
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/))
