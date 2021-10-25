@@ -5,6 +5,7 @@
 - [Telling Stories with Data](https://www.tellingstorieswithdata.com/index.html)
 - [Introduction to Statistical Learning in R](https://fcorowe.github.io/sl/)
 - [Statistics Done Wrong - The woefully complete guide](https://www.statisticsdonewrong.com/index.html)
+- [Introduction to Modern Statistics](https://openintro-ims.netlify.app/)
 
 ### Inferência:
 - [Statistical Inference via Data Science](https://moderndive.com/)
