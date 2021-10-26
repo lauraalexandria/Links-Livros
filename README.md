@@ -101,6 +101,9 @@
 - [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://statisticswithjulia.org/)
 - [Hadoop Illuminated](http://www.hadoopilluminated.com/)
 
+### Noções Matemáticas:
+- [Matemática Elementar para Computação](https://matematica.pgdinamica.com/)
+
 ### Outros assuntos:
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/))
 - [Handbook of Regression Modeling in People Analytics](https://peopleanalytics-regression-book.org/index.html)
