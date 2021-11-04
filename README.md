@@ -40,6 +40,7 @@
 - [End-to-End Machine Learning Library](https://e2eml.school/blog.html)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [Automated Machine Learning](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)
+- [Explanatory Model Analysis](https://ema.drwhy.ai/)
 
 ### Deep Learning:
 - [Introduction to Deep Learning - Curso MIT](http://introtodeeplearning.com/)
