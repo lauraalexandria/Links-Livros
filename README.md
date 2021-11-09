@@ -52,7 +52,7 @@
 ### Estatística Multivariada
 - [Análise Fatorial](https://repositorio.enap.gov.br/bitstream/1/4790/1/Livro%20An%C3%A1lise%20Fatorial.pdf)
 - [Factor Analysis with the psych package](https://m-clark.github.io/posts/2020-04-10-psych-explained/)
-- [Cluster Analysi: Basic Concepts and Algorithms](https://www-users.cse.umn.edu/~kumar001/dmbook/ch8.pdf)
+- [Cluster Analysis: Basic Concepts and Algorithms](https://www-users.cse.umn.edu/~kumar001/dmbook/ch8.pdf)
 - [Análise de cluster não supervisionado em R: agrupamento hierárquico](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1126478/1/5360.pdf)
 
 ### Séries Temporais:
@@ -106,7 +106,7 @@
 - [Matemática Elementar para Computação](https://matematica.pgdinamica.com/)
 
 ### Outros assuntos:
-- [Introduction to Econometrics with R](https://www.econometrics-with-r.org/))
+- [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
 - [Handbook of Regression Modeling in People Analytics](https://peopleanalytics-regression-book.org/index.html)
 - [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/introduction.html)
 - [Doing Meta-Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
