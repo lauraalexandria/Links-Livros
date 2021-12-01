@@ -101,6 +101,7 @@
 - [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
 - [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://statisticswithjulia.org/)
 - [Hadoop Illuminated](http://www.hadoopilluminated.com/)
+- [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 
 ### Noções Matemáticas:
 - [Matemática Elementar para Computação](https://matematica.pgdinamica.com/)
