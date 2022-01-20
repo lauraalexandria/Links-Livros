@@ -21,6 +21,7 @@
 - [Modelos Lineares Generalizados - da teoria à prática](https://www.researchgate.net/profile/Antonia-Turkman/publication/267948318_Modelos_Lineares_Generalizados_-da_teoria_a_pratica/links/5f2d09cb92851cd302e50cf2/Modelos-Lineares-Generalizados-da-teoria-a-pratica.pdf)
 - [Modelos de Regressão com Apoio Computacional](https://www.ime.usp.br/~giapaula/texto_2013.pdf)
 - [Beyond Multiple Linear Regression - Applied GLM and Multilevels Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/)
+- [Generalized Additive Models in R](https://noamross.github.io/gams-in-r-course/)
 
 ### Modelos Mistos
 - [Mixed Models in R](https://m-clark.github.io/mixed-models-with-R/)
@@ -105,6 +106,7 @@
 
 ### Noções Matemáticas:
 - [Matemática Elementar para Computação](https://matematica.pgdinamica.com/)
+- [Introduction to Probability for Data Science](https://probability4datascience.com/index.html)
 
 ### Outros assuntos:
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
