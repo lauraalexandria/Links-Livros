@@ -75,6 +75,7 @@
 - [Data Visualization - A practical introduction](https://socviz.co/)
 - [Dashboards are dead](https://www.thoughtspot.com/sites/default/files/pdf/ThoughtSpot-Dashboards-are-Dead.pdf)
 - [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html)
+- [Mastering Shiny](https://mastering-shiny.org/)
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
 
 ### Análises Textuais:
