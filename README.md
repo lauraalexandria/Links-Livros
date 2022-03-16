@@ -42,6 +42,7 @@
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [Automated Machine Learning](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)
 - [Explanatory Model Analysis](https://ema.drwhy.ai/)
+- [The Hundred Page Machine Learning Book](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
 
 ### Deep Learning:
 - [Introduction to Deep Learning - Curso MIT](http://introtodeeplearning.com/)
