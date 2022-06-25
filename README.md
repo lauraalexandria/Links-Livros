@@ -105,6 +105,7 @@
 - [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://statisticswithjulia.org/)
 - [Hadoop Illuminated](http://www.hadoopilluminated.com/)
 - [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
+- [Pense em Python](https://penseallen.github.io/PensePython2e/)
 
 ### Noções Matemáticas:
 - [Matemática Elementar para Computação](https://matematica.pgdinamica.com/)
@@ -115,3 +116,4 @@
 - [Handbook of Regression Modeling in People Analytics](https://peopleanalytics-regression-book.org/index.html)
 - [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/introduction.html)
 - [Doing Meta-Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
+- [Tidy Finance with R](https://www.tidy-finance.org/)
