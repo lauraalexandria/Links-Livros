@@ -31,6 +31,7 @@
 - [Modelagem com Equações Estruturais: Princípios Básicos e Aplicações](https://repositorio.ufba.br/ri/bitstream/ri/17684/1/ebook_SEM_2012.pdf)
 
 ### Machine Learning:
+- [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/)
 - [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 - [Aprendizado de Máquina - Uma Abordagem Estatística](http://www.rizbicki.ufscar.br/ame/)
