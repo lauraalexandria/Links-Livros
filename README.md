@@ -61,6 +61,7 @@
 ### Séries Temporais:
 - [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 - [Tidyverts](https://tidyverts.org/)
+- [Multiple avenues to time-series analysis](https://m-clark.github.io/posts/2021-05-time-series/)
 
 ### Análise de Sobrevivência
 - [Survival Analysis in R](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html)
@@ -107,6 +108,7 @@
 - [Hadoop Illuminated](http://www.hadoopilluminated.com/)
 - [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 - [Pense em Python](https://penseallen.github.io/PensePython2e/)
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/)
 
 ### Noções Matemáticas:
 - [Matemática Elementar para Computação](https://matematica.pgdinamica.com/)
