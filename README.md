@@ -113,6 +113,7 @@
 ### Noções Matemáticas:
 - [Matemática Elementar para Computação](https://matematica.pgdinamica.com/)
 - [Introduction to Probability for Data Science](https://probability4datascience.com/index.html)
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 ### Outros assuntos:
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
