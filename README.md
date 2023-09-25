@@ -67,8 +67,8 @@
 - [Survival Analysis in R](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html)
 
 ### Processos Estocásticos
-- [Conceitos Básicos de Processos Estocásticos](http://www.est.ufmg.br/portal/arquivos/rts/Ap2011.pdf)
-- [Uma Introdução aos Processos Estocásticos](http://www.est.ufmg.br/portal/arquivos/rts/rte0502.pdf)
+- [Conceitos Básicos de Processos Estocásticos](https://www.est.ufmg.br/portal/wp-content/uploads/2023/01/RTE-01-2011.pdf)
+- [Uma Introdução aos Processos Estocásticos](https://www.est.ufmg.br/portal/wp-content/uploads/2023/01/RTE-02-2005.pdf)
 
 ### Inferência Bayesiana
 - [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)
