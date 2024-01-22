@@ -113,6 +113,7 @@
 - [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 - [Pense em Python](https://penseallen.github.io/PensePython2e/)
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+- [Big Book of R](https://www.bigbookofr.com/index.html)
 
 ### Noções Matemáticas:
 - [Matemática Elementar para Computação](https://matematica.pgdinamica.com/)
