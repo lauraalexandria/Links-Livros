@@ -90,6 +90,7 @@
 ### Inferência Causal 
 - [Causal Inference: The Mix Tape](https://mixtape.scunning.com/01-introduction)
 - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+- [Causal ML Book](https://www.causalml-book.org/?utm_source=www.datahackers.news&utm_medium=newsletter&utm_campaign=100-casos-praticos-de-uso-de-ai-generativa-organizados-e-em-portugues)
   
 ### Análise de Redes:
 - [Análise de Redes em Ciências Sociais](https://repositorio.enap.gov.br/bitstream/1/3337/1/Livro_Analise%20de%20Redes%20em%20Ci%c3%aancias%20Sociais.pdf)
