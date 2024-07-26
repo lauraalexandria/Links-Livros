@@ -72,6 +72,7 @@
 
 ### Inferência Bayesiana
 - [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)
+- [Probabilistic Programming & Bayesian Methods for Hackers](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 ### Visualização de Dados:
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
