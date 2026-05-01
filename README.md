@@ -6,6 +6,7 @@
 - [Introduction to Statistical Learning in R](https://fcorowe.github.io/sl/)
 - [Statistics Done Wrong - The woefully complete guide](https://www.statisticsdonewrong.com/index.html)
 - [Introduction to Modern Statistics](https://openintro-ims.netlify.app/)
+- [Introdução à Análise de Dados em R utilizando Tidyverse](https://allanvc.github.io/book_IADR-T/)
 
 ### Inferência:
 - [Statistical Inference via Data Science](https://moderndive.com/)
