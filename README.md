@@ -46,6 +46,7 @@
 - [Explanatory Model Analysis](https://ema.drwhy.ai/)
 - [The Hundred Page Machine Learning Book](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://github.com/wzhe06/Ad-papers/blob/master/Machine%20Learning%20Tutorial/Rules%20of%20Machine%20Learning-%20Best%20Practices%20for%20ML%20Engineering.pdf)
+- [Tidy Modeling with R](https://www.tmwr.org/)
 
 ### Deep Learning:
 - [Introduction to Deep Learning - Curso MIT](http://introtodeeplearning.com/)
